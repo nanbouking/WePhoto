@@ -1,3 +1,5 @@
+ 
+
 
 # 项目介绍
 
@@ -39,6 +41,10 @@
 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0811/232308_24f19ffc_9240987.png "微信图片_20210811225632.png")
 
 # 部署教程：
+### 0. 了解小程序云开发的基础知识
+-  参考微信小程序官方文档：
+- https://developers.weixin.qq.com/miniprogram/dev/wxcloud/basis/getting-started.html
+- https://developers.weixin.qq.com/miniprogram/dev/wxcloud/quick-start/miniprogram.html
 
 ### 1 源码导入微信开发者工具
 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0811/232342_af110aec_9240987.png "导入.png")
@@ -65,12 +71,12 @@
 
 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0811/232711_58121526_9240987.png "云函数初始化.png")
 
-
+-  **如提示npm无法识别，请先恶补npm和node.js基础知识：https://www.runoob.com/nodejs/nodejs-npm.html** 
  
 
-- 打开cloudfunctions/reg_cloud/comm/ccmini_config.js文件，配置环境ID和后台管理员手机号码
+- 打开cloudfunctions/sport_cloud/comm/ccmini_config.js文件，配置后台管理员账号和密码
 
- ![输入图片说明](https://images.gitee.com/uploads/images/2021/0811/232806_b0477e47_9240987.png "云函数配置.png")
+ ![输入图片说明](https://images.gitee.com/uploads/images/2021/0911/150146_a9af88e5_9240987.png "设置管理员账号.png")
 
 
  
@@ -108,8 +114,6 @@
 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0811/233918_96b29222_9240987.jpeg "Free版-QR.jpg")
  
 
-
-### 如有疑问，欢迎骚扰联系我鸭： 
-### 俺的微信:  cclinux0730
+ 
 
 
