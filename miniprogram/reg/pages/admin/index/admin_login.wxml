@@ -1,0 +1,30 @@
+<view class="main">
+
+
+<view class="login">
+	
+	<view class="kuang shadow">
+			<view class="hint">{{projectName}}后台管理</view>
+		<open-data class="avatar-open" type="userAvatarUrl"></open-data> 
+
+			<view class="form-group">
+				<view class="title">账号：</view>
+				<input placeholder="管理员账号" maxlength="30" placeholder-class="phc" model:value="{{name}}"></input>
+			</view>
+
+			<view class="form-group">
+				<view class="title">密码：</view>
+				<input placeholder="管理员密码" maxlength="30" type="password" placeholder-class="phc" model:value="{{pwd}}"></input>
+			</view>
+
+			<button class="btn" bindtap="bindGetPhoneNumber">点击登录</button>
+		<view bindtap="url" data-url="../../my/index/my_index" class="return">返回</view>
+	</view>
+
+</view>
+
+<view class="bottom">
+	 
+</view>
+
+</view>
