@@ -1,0 +1,13 @@
+@import "../../skin/skin.wxss";
+@import "../../../../style/project/my_index_base.wxss";
+
+
+/*投影*/
+.main .upside { 
+	border-bottom: 15rpx solid var(--projectCompareColor); 
+	border-bottom-left-radius: 50rpx;
+}
+
+.main .upside .user-bar .detail .desc {
+	color: #fff
+}
