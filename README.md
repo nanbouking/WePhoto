@@ -5,8 +5,9 @@
 - 游泳馆预约管理：开始/截止时间/人数均可灵活设置，可以自定义客户预约填写的数据项
 - 游泳馆预约凭证：支持线下到场后校验签到/核销/二维码自助签到等多种方式
 - 详尽的预约数据：支持预约名单数据导出Excel，打印
+![image](https://user-images.githubusercontent.com/96864248/161470756-c72e8018-4f76-4861-9820-f360609aa434.png)
 
-![输入图片说明](demo/%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
+ 
  
 
 ## 技术运用
@@ -23,12 +24,12 @@
 - 俺的微信:
  
  
-![输入图片说明](demo/author-base.png)
+![image](https://user-images.githubusercontent.com/96864248/161470773-bd29e4db-a324-44fe-927e-7a2bdc74a314.png)
 
 
 ## 演示 
  
-![输入图片说明](demo/%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
+![image](https://user-images.githubusercontent.com/96864248/161470764-c9d640b2-ce6b-483e-940d-a896086f967c.png)
 
 ## 安装
 
@@ -38,25 +39,27 @@
 
 
 ## 截图
-![输入图片说明](demo/1%E9%A6%96%E9%A1%B5.png)
-![输入图片说明](demo/2%E6%9C%AC%E9%A6%86%E5%8A%A8%E6%80%81.png)
-![输入图片说明](demo/3%E6%B8%B8%E6%B3%B3%E5%B8%B8%E8%AF%86.png)
-![输入图片说明](demo/4%E9%A2%84%E7%BA%A6%E6%97%A5%E5%8E%86.png)
-![输入图片说明](demo/5%E6%88%91%E7%9A%84.png)
-![输入图片说明](demo/6%E6%B8%B8%E6%B3%B3%E9%A6%86%E9%A2%84%E7%BA%A6.png)
-![输入图片说明](demo/7%E9%A2%84%E7%BA%A6%E8%AF%A6%E6%83%85.png)
- ![输入图片说明](demo/8%E9%A9%AC%E4%B8%8A%E9%A2%84%E7%BA%A6.png)
-![输入图片说明](demo/9%E9%A2%84%E7%BA%A6%E6%88%90%E5%8A%9F.png)
+ ![image](https://user-images.githubusercontent.com/96864248/161470794-2848b5ad-ba2c-4f53-90e6-c2447ab87a9b.png)
+![image](https://user-images.githubusercontent.com/96864248/161470797-c9bb33bd-543a-4d19-8fb7-695994236c0c.png)
+![image](https://user-images.githubusercontent.com/96864248/161470800-87dff4f0-bb7c-44ec-b7f8-75c652c92358.png)
+![image](https://user-images.githubusercontent.com/96864248/161470805-b5fd83b5-d14c-4c73-94ab-cced2bba7594.png)
+![image](https://user-images.githubusercontent.com/96864248/161470810-e06bc7f4-e98e-4dad-8b37-cb846edd412b.png)
+![image](https://user-images.githubusercontent.com/96864248/161470812-d4abe789-d56d-420f-a5f6-f4d7d2fae453.png)
+![image](https://user-images.githubusercontent.com/96864248/161470820-a373036d-cfe7-4268-9e52-fcfda187fe37.png)
+![image](https://user-images.githubusercontent.com/96864248/161470824-b60da7e3-44cb-4a65-9d30-f41afb404ac2.png)
+![image](https://user-images.githubusercontent.com/96864248/161470826-59b5f7e5-6034-4425-8328-fded91439974.png)
+
 
 ## 后台管理系统截图
-![输入图片说明](demo/10%E5%90%8E%E5%8F%B0-%E9%A6%96%E9%A1%B5.png)
+ ![image](https://user-images.githubusercontent.com/96864248/161470830-0d5d5c7d-4311-42d4-923f-2f7492e900a5.png)
+![image](https://user-images.githubusercontent.com/96864248/161470835-a908f9e5-20ed-4649-a2a4-0353af128d74.png)
+![image](https://user-images.githubusercontent.com/96864248/161470838-3202b4dc-60eb-4ac9-a7bc-a217aa97d8c6.png)
+![image](https://user-images.githubusercontent.com/96864248/161470843-3b6b2b65-636a-41d2-8dae-99722465cb34.png)
+![image](https://user-images.githubusercontent.com/96864248/161470850-f9e5f52e-1d66-436f-87ae-804ccec4561c.png)
+![image](https://user-images.githubusercontent.com/96864248/161470854-7c6729a0-f38a-4f2a-b454-c390997ffaf4.png)
+![image](https://user-images.githubusercontent.com/96864248/161470864-4f215f4f-cdd4-466f-841b-9de897506309.png)
+![image](https://user-images.githubusercontent.com/96864248/161470869-880b90bf-ec10-4e8f-bcf4-1f56c0735180.png)
+![image](https://user-images.githubusercontent.com/96864248/161470874-692e9bfa-4857-4ec7-9ab0-915ab57cfea9.png)
 
-![输入图片说明](demo/11%E5%90%8E%E5%8F%B0-%E5%8A%A8%E6%80%81%E7%AE%A1%E7%90%86.png)
-![输入图片说明](demo/12%E5%90%8E%E5%8F%B0-%E9%A2%84%E7%BA%A6%E7%AE%A1%E7%90%86.png)
-![输入图片说明](demo/13%E5%90%8E%E5%8F%B0-%E9%A2%84%E7%BA%A6%E6%B7%BB%E5%8A%A0.png)
-![输入图片说明](demo/14%E5%90%8E%E5%8F%B0-%E9%A2%84%E7%BA%A6%E6%97%B6%E6%AE%B5.png)
-![输入图片说明](demo/15%E5%90%8E%E5%8F%B0-%E9%A2%84%E7%BA%A6%E8%8F%9C%E5%8D%95.png)
 
-![输入图片说明](demo/16%E5%90%8E%E5%8F%B0-%E9%A2%84%E7%BA%A6%E5%90%8D%E5%8D%95.png)
-![输入图片说明](demo/17%E5%90%8E%E5%8F%B0-%E9%A2%84%E7%BA%A6%E5%90%8D%E5%8D%95%E7%AE%A1%E7%90%86.png)
-![输入图片说明](demo/18%E5%90%8E%E5%8F%B0-%E9%A2%84%E7%BA%A6%E5%90%8D%E5%8D%95%E5%AF%BC%E5%87%BA.png)
+
