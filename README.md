@@ -15,7 +15,8 @@
 摄影师端：可以编辑自己的个人资料（头像，简介，星级，作品集等），设定预约时段排期（可预约时段，各时段人数限定）， 在现场核销用户的预约码。
 顾客端：选择自己需要的摄影师和时段，下单预约，预约成功后出示预约码给摄影师或者工作人员核销。
 ![image](https://github.com/nanbouking/WePhoto/assets/96864248/4031a004-cdb9-4945-94ab-a345f6c7d07b)
-![image](https://github.com/nanbouking/WePhoto/assets/96864248/6c95c80b-93b3-441a-8996-1cd3e344bdac)
+ ![image](https://github.com/nanbouking/WePhoto/assets/96864248/09fe83f7-fee9-4a33-bf05-eb0e832bb21d)
+
 
 
 ## 技术运用
