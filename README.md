@@ -59,8 +59,7 @@
 ![image](https://github.com/nanbouking/WePhoto/assets/96864248/bdcf9e6f-7ecc-4c30-80a8-50c3273d7670)
 ![image](https://github.com/nanbouking/WePhoto/assets/96864248/62000d44-98ce-469c-8bdd-91b03b65628f)
 
-![image](https://github.com/nanbouking/WePhoto/assets/96864248/a73e26e8-1e82-4426-8cca-1ca84f8983ef)
-![image](https://github.com/nanbouking/WePhoto/assets/96864248/f0743137-85a4-4bc8-b381-73e594a6399f)
+![image](https://github.com/nanbouking/WePhoto/assets/96864248/a73e26e8-1e82-4426-8cca-1ca84f8983ef) 
 ![image](https://github.com/nanbouking/WePhoto/assets/96864248/62292537-f895-40b0-a080-0b2ea3d5f909)
 
 ![image](https://github.com/nanbouking/WePhoto/assets/96864248/1f2b226f-dcd5-4302-a015-f6e14081d110)
