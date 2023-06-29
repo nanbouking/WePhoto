@@ -31,13 +31,14 @@
 ## 作者
 - 如有疑问，欢迎骚扰联系我：开发交流，技术分享，问题答疑，功能建议收集，版本更新通知，安装部署协助，小程序开发定制等。
 - 俺的微信: 
- 
-![image](https://github.com/nanbouking/WePhoto/assets/96864248/ec23b94b-5e58-4665-a96f-c1d8cc4e029e)
+ ![image](https://github.com/nanbouking/WePhoto/assets/96864248/64a975da-6892-4aff-93ff-022f1a372eea)
+
 
 
 
 ## 演示 
- ![image](https://github.com/nanbouking/WePhoto/assets/96864248/798fd41f-e43f-40b5-9b9c-69f24f041f68)
+ ![image](https://github.com/nanbouking/WePhoto/assets/96864248/92777fca-b399-4c59-91dd-a7064ae27306)
+
 
 
 ## 安装
